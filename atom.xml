@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Code for Greenville Brigade Blog]]></title>
+  <link href="http://codeforgreenville.org/atom.xml" rel="self"/>
+  <link href="http://codeforgreenville.org/"/>
+  <updated>2014-05-07T15:31:16-04:00</updated>
+  <id>http://codeforgreenville.org/</id>
+  <author>
+    <name><![CDATA[Code for Greenville Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://codeforgreenville.org/blog/2014/05/07/hello-world/"/>
+    <updated>2014-05-07T15:09:53-04:00</updated>
+    <id>http://codeforgreenville.org/blog/2014/05/07/hello-world</id>
+    <content type="html"><![CDATA[<p>It’s ALIVE!
+TEST POST PLEASE IGNORE</p>
+]]></content>
+  </entry>
+  
+</feed>
